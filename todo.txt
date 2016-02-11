@@ -1,0 +1,50 @@
+Idea: game about building a base design and trying to destroy the other player's base.
+Loop: Aim cannon -> Shoot cannon -> Blow up the base -> Repeat
+
+- UI: 15 days
+	- Base health
+	- Cannon firing
+	- Chat
+	- Base building
+- Tilemap: 15 days
+	- Drawing the base
+	- Drawing base internals
+	- Depth layers
+	- Blocks that are larger than 1 tile
+- Destructible blocks: 15 days
+	- Removing when destroyed
+	- Leave behind rubble
+- Multiplayer: 90 days
+	- Direct connection
+	- Matchmaking
+	- Chat
+- Art: 45 days
+	- Block art
+	- Weapons
+	- Environment
+	- Icons
+- Sound and music: 30 days
+	- UI sounds
+	- Ambient sound
+	- Background music
+	- Action sound
+- Graphical effects: 15 days
+	- Shaders
+	- Particles
+	- Screen shake
+- Accessibility: 21 days
+	- Gamepad support
+	- Keymapping
+	- Colorblind support
+- Animations: 21 days
+	- Cannon firing
+	- Block destruction
+	- Projectile movement
+
+- itch.io: 3 days
+- love2d forum post: 3 days
+- playtesting: 45 days
+- distribution: 3 days
+
+time to prototype: 1 month?
+total time: 9 months to completion
